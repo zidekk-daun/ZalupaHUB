@@ -3,4 +3,4 @@
 To try the latest version, run:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zidekk-daun/ZalupaHUB/refs/heads/main/ZALUPAHUB_YunV2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zidekk-daun/ZalupaHUB/refs/heads/main/ZALUPAHUB_Universal.lua"))()
